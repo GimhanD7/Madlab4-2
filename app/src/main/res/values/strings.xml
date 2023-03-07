@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">hello</string>
+    <string name="Email">Enter Email</string>
+    <string name="Name">name</string>
+    <string name="password">password</string>
+    <string name="reenterPassword">reenterpassword</string>
+    <string name="submit">subbtn</string>
+    <string name="canselbtn">canselbtn</string>
+</resources>
